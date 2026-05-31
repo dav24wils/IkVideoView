@@ -1,4 +1,4 @@
-package com.ikechi.studio.view.video;
+package com.ikechi.studio.video;
 
 import android.content.Context;
 import android.content.res.TypedArray;
