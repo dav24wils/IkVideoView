@@ -49,7 +49,7 @@ Usage
 Basic XML Layout
 
 ```xml
-<com.ikechi.studio.view.video.IkVideoView
+<com.ikechi.studio.video.IkVideoView
     android:id="@+id/videoView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
